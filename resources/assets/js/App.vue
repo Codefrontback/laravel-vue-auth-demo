@@ -32,7 +32,7 @@
         <footer class="page-footer">
             <div class="footer-copyright">
                 <div class="container">
-                    <span>&copy; 2018</span>  <a href="https://artixun.com" target="_blank" style="color:white;text-decoration:none">Artixun Softwares.</a>
+                    <span>&copy; 2020</span>  <a href="https://artixun.com" target="_blank" style="color:white;text-decoration:none">Artixun Softwares.</a>
                 </div>
             </div>
         </footer>

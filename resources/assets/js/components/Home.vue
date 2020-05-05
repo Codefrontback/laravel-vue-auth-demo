@@ -1,5 +1,5 @@
 <template>
-    <h4>Laravel 5.7 Vue SPA Authentication</h4>
+    <h4>Laravel 7.9 Vue SPA Authentication</h4>
 </template>
 
 <style scoped>
