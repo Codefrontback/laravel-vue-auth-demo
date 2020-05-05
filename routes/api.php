@@ -21,7 +21,7 @@ Route::post('/auth/register', 'AuthController@postRegister');
 Route::post('/auth/login', 'AuthController@postLogin');
 Route::post('/auth/social', 'AuthController@postSocialLogin');
 
-Route::group(['middleware' => ['jwt.auth']], function () {
+Route::group(['middleware' => ['auth.jwt']], function () {
 
     Route::get('/auth/logout', 'AuthController@logout');
 });
